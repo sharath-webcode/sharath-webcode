@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sharath%20N&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20developer%20focused%20on%20problem-solving%2C%20system%20clarity%2C%20and%20scalable%20architecture.%20Actively%20strengthening%20Data%20Structures%20%26%20Algorithms%20in%20C%2B%2B%20while%20building%20production-ready%20APIs%20using%20ASP.NET%20Core%20Web%20API.&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sharath%20N&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=sharath-webcode">
