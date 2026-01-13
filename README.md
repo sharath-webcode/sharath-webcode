@@ -10,12 +10,12 @@
 
 ## 📌 About Me
 class Sharath extends Developer { </BR>
-  role = "Backend Specialist";
-  mindset = ["solve", "scale"];
-  stack = ["DSA in C++", "ASP.NET Core Web API"];
-  principles = ["clean code", "strong fundamentals", "consistency"];
-  method() { return "Think → Build → Optimize"; }
-  focus = ["performance", "maintainability"];
+  role = "Backend Specialist"; </BR>
+  mindset = ["solve", "scale"]; </BR>
+  stack = ["DSA in C++", "ASP.NET Core Web API"]; </BR>
+  principles = ["clean code", "strong fundamentals", "consistency"]; </BR>
+  method() { return "Think → Build → Optimize"; } </BR>
+  focus = ["performance", "maintainability"]; </BR>
 }
 
 
